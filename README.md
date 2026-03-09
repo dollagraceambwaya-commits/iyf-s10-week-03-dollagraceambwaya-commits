@@ -1883,4 +1883,8 @@ iyf-s10-week-03-DollaGrace/
 - LinkedIn: [Dolla Grace](https://linkedin.com/in/dolla-grace-b4021a1b4])  
 - GitHub: [DollaGrace](https://github.com/dollagraceambwaya-commits)
 
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
 
