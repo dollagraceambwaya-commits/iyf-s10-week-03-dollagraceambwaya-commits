@@ -62,9 +62,10 @@ iyf-s10-week-03-DollaGrace/
 
 ## Contact
 
-- Email: dollagraceambwaya@gmail.com  
-- LinkedIn: [Dolla Grace](https://linkedin.com/in/dolla-grace-b4021a1b4])  
-- GitHub: [DollaGrace](https://github.com/dollagraceambwaya-commits)
+- Email: [dollagraceambwaya@gmail.com](mailto:dollagraceambwaya@gmail.com)
+  
+-[LinkedIn](https://www.linkedin.com/in/dolla-grace-b4021a1b4)  
+- GitHub: [dollagraceambwaya-commits](https://github.com/dollagraceambwaya-commits)
 
 ## License
 
