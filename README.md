@@ -34,8 +34,7 @@ I learned how to confidently use the terminal to manage files, initialize reposi
 
 ## Project Structure
 
-\`\`\`
-iyf-s10-week-03-DollaGrace/
+iyf-s10-week-03-dollagraceambwaya-commits/
 ├── index.html
 ├── about.html
 ├── projects.html
@@ -43,7 +42,7 @@ iyf-s10-week-03-DollaGrace/
 ├── css/
 │   └── styles.css
 └── images/
-\`\`\`
+
 
 ## What I Learned
 
